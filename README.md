@@ -8,7 +8,7 @@ Logo lembrei desse clássico do Nintendo de 1985 desenvolvido pela famosa Namco.
 Eu gostava muito desse jogo, é algo que me inspirou bastante à voltar a desenvolver jogos, então pensei que poderia servir para algo e resolvi disponibilizá-lo em meu git.
 
 
-![alt tag](https://raw.githubusercontent.com/Bruno2Silva2/Unity-CSharp-Battle-City-Test/master/image.png)
+![alt tag](https://raw.githubusercontent.com/BrunoS3D/Unity-CSharp-Battle-City-Test/master/image.png)
 
 
 # Atenção
